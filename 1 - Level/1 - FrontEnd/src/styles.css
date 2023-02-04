@@ -1,0 +1,25 @@
+:root {
+  --background-app: #424242;
+  --background-html: #20262e;
+  --text-color: #fafafa;
+}
+
+.light-theme {
+  --background-app: #fff;
+  --text-color: #000;
+}
+
+body {
+  background: var(--background-html);
+  padding: 20px;
+  font-family: Helvetica;
+}
+
+.App {
+  background: var(--background-app);
+  color: var(--text-color);
+  text-align: center;
+  border-radius: 4px;
+  padding: 20px;
+  transition: all 0.2s;
+}
