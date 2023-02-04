@@ -15,6 +15,6 @@ The fact of being able to challenge myself doing something different is very muc
   - Backend: Express, routes, queries, fetch data and tests
   - Blockchain: Web3, consume contract, fetch contract information
 - Level 2
-  > 🔒Locked
+  > 🔒 Locked
 - Level 3
-  > 🔒Locked
+  > 🔒 Locked
